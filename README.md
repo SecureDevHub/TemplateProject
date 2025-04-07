@@ -20,6 +20,7 @@ Welcome to the official SecureDevHub Project Template! This repository provides 
  ┣ 📜 ARCHITECTURE.md      # Overview of the project's architecture
  ┣ 📜 TESTING.md           # Guidelines for running and writing tests
  ┣ 📜 DEPLOYMENT.md        # Instructions for deploying the project
+ ┣ 📜 ACCESSIBILITY.md     # Accessibility instructions for the project
  ┣ 📂 .github/
  ┃ ┣ 📂 ISSUE_TEMPLATE/    # Templates for bug reports & feature requests
  ┃ ┣ 📜 PULL_REQUEST_TEMPLATE.md  # Standardized PR structure
