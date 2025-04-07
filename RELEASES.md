@@ -66,3 +66,43 @@ Each release should include:
 - Acknowledgments for contributors (if applicable).
 
 # Release Note Template
+## Release Notes - [Product/Project Name]
+
+**Version:** [Version Number]  
+**Release Date:** [Date]  
+
+---
+
+### Key Highlights
+- [Brief description of the main new features or improvements]
+- [Example: "Added the ability to export reports in PDF format."]
+
+---
+
+### Improvements
+- [Description of minor improvements or optimizations]
+- [Example: "Optimized the dashboard loading speed."]
+
+---
+
+### Bug Fixes
+- [Description of resolved bugs]
+- [Example: "Fixed an issue causing the application to crash during login."]
+
+---
+
+### Security Updates
+- [Description of any security-related updates]
+- [Example: "Updated the OpenSSL library to the latest version to mitigate known vulnerabilities."]
+
+---
+
+### Additional Notes
+- [Any additional information, such as deprecations, API changes, or important notices]
+- [Example: "The X feature has been deprecated and will be removed in version 2.0."]
+
+---
+
+### Upgrade Instructions
+- [Steps or requirements to upgrade to the new version]
+- [Example: "Ensure to back up the database before proceeding with the upgrade."]
