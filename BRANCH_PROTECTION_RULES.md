@@ -27,13 +27,3 @@ To maintain code quality and ensure a stable codebase, the following branch prot
 
 2. **Require Status Checks**
     - All CI/CD checks must pass before merging.
-
-## Feature, Release, and Hotfix Branches
-
--   No direct commits are allowed.
--   Changes must go through pull requests.
-
-## Additional Rules
-
--   **Enforce Linear History**: Prevent merge commits by requiring a linear commit history.
--   **Require Signed Commits**: Ensure all commits are signed for security.
